@@ -1,5 +1,1 @@
-# qaqc6-stockaya
-test
-# feature
-# added in develop
-
+v.1.1 Added presentation file
